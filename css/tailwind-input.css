@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@source "../*.html";
+
+@theme {
+  --breakpoint-xs: 30rem;
+  --font-display: "Fraunces", ui-serif, Georgia, serif;
+  --font-body: "Manrope", ui-sans-serif, system-ui, sans-serif;
+}
